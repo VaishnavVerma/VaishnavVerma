@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VaishnavVerma
-- 👀 I’m interested in React, Node.js and golang
-- 🌱 I’m currently working on Backend and ML algo 
+- 🌱 I’m currently learning what that I also don't know ssly
 - 💞️ I’m looking to collaborate for Hackathons
 - 📫 For contact - @vaishnav_verma_ ( X )
 
